@@ -1,0 +1,28 @@
+/* CSS Externo La sistasís del lenguaje CSS se compone de tres selectores*/
+.Computo{
+    color: green; 
+    background: yellow;
+}
+
+
+
+p{
+    background: red;
+    color: black;
+}
+.JuanCalorCrispin{
+    background: yellowgreen;
+    color: black;
+}
+.CristianSinisa{
+    background: chocolate;
+    color: black;
+}
+.ElizabethSolos{
+    background: cornflowerblue;
+    color: black;
+}
+.MarySantiapo{
+    background: blue;
+    color: white;
+}

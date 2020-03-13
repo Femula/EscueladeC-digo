@@ -1,0 +1,107 @@
+/* selector por elemento body */
+/* la propiedad background me permite poner un fondo a mi index inicial o de base */
+body{
+    background: #38425c;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #cc9724;
+}
+.medidas{
+    color: blanchedalmond;
+    
+}
+/* clase para los titulos centrales */
+.titulos{
+    background-color: #4760a1;
+  width: 60%;
+  margin-left: 20%;
+  text-align: center;
+  color:white;
+  border-radius: 20px;
+}
+/* milimetros */
+p{
+    font-size: 5mm;
+    /* En está propiedad utilizó la unidad de medida que da el tamaño de la fuente en milímetros */
+    line-height: 10mm;
+    /* En está propiedad utilizó un interlineado de 10 milimetros es un espaciado entre línea y línea de  párrafo*/
+    text-align: center;
+    /* En está propiedad se ultizá para ubicar de derecha o izquierda o al centro algún texto o título */
+}
+/* CENTIMETROS */
+/* CLASE POR EL . */
+.centimetros {
+    /* asignando el color a la fueste = letra  */
+ 	color: cyan;
+	/* alinear el texto */
+	/* left = izquierda */
+  	text-align: left;
+    /* asignar la unidad de medida 	font size= tamaño de fuente  */
+    /* la unidad de medida siempre va a la derecha seguida del número sin espacio y la unidad de medida para centimetros es cm  */
+  	font-size: 1.5cm;
+}
+.Píxeles{
+/* son la unidad mínima de un lenguaje digital o lenguaje binario. */
+width: 140px;
+/* Es una etiqueta que hace referencia a lo ancho */
+height: 140px;
+/* Es una etiqueta que hace referencia a la altura */
+border:2px dotted blueviolet;
+/* La propiedad recibe tres valores COLOR, TAMAÑO Y ASPECTO se puede hacer punteado segmentado o uniforme*/
+/* La propiedad border permite definir de golpe todos los bordes en una única regla de la hoja de estilos. */
+/* Genra un border alredor de la etiqueta */
+background:aquamarine;
+/* Rellena el valor del border */
+}
+.Diferente{
+width: 50px;  
+height: 50px;
+border: chartreuse;
+background: darkgray;
+color: black;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 8px;
+}
+.Diferente01{
+  width: 200px;  
+  height:200px;
+  border: chartreuse;
+  background:orangered;
+color: palegreen;
+  
+  font-size: 80;
+}
+.Diferente02{
+  width: 400px;  
+  height:40px;
+  border: chartreuse;
+  background:orangered;
+color: palegreen;
+
+  font-size: 80;
+}
+.Diferente03{
+  width: 100px;  
+  height:60x;
+  border: chartreuse;
+  background:orangered;
+color: palegreen;
+
+  font-size: 80;
+}
+.bote{
+  background: coral;
+  color: white;
+  width: 40vh;
+  height: 40vh;
+}
+.web{
+  background: violet;
+  color: #4760a1;
+  width: 80vw;
+  height: 80vw;
+border-radius: 200px;
+margin-left: 10vw;
+margin-top:10vw ;
+
+
+}

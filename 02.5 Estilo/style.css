@@ -1,0 +1,98 @@
+/* Estilo externo */
+/* Tenemos tres selectores universales:
+1. Por nombre de etiqueta o elemento
+2. Por clase (PUNTO)
+3. # ID*/
+h3{
+    background: cyan; 
+    color: pink;
+}
+/* Selector por elemento o nombre de etiqueta 
+Body es la etiqueta que aparece sola un a vez en todo el documento*/
+body {
+    background: yellowgreen;
+ /* Está es la etiqueta que da color al fondo */
+/* Clase se represanta con la sintaxis con un (punto.) seguido de un nombre sin espacios finalizando con el bloque de llaves,
+) */
+}
+/* Selectores por clase */
+.margarita{
+    background: purple;
+    color: plum;
+    font-size: 50px;
+}
+.rocío{
+    background: blue;
+    color: cornflowerblue;
+    font-size: 30px;
+}
+.marcela{
+    background: lightgreen;
+    color: goldenrod;
+    font-size: 15px;
+}
+.lucesita{
+    background: hotpink;
+    color: indigo;
+    font-size: 60px;
+}
+.jose{
+    background: brown;
+    color: chocolate;
+    font-size: 30px;
+}
+.ana{
+    background: palevioletred;
+    color: rebeccapurple;
+    font-size: 25px;
+}
+.rayito{
+    background: saddlebrown;
+    color: slateblue;
+    font-size: 40px;
+}
+.erick{
+    background: plum;
+    color: royalblue;
+    font-size: 90px;
+}
+.rodrigo{
+    background: red;
+    color: sienna;
+    font-size: 45.px;
+}
+.mary{
+    background: springgreen;
+    color: teal;
+    font-size: 25px;
+}
+#casco{
+    background: black;
+    color:  white;
+    font-size: 100px;
+}
+#margarita{
+    background: slategrey;
+    color: teal;
+    font-size: 22px;
+}
+#rocío{
+    background: tomato;
+    color: black;
+    font-size: 25px;
+}
+#marcela{
+    background: blue;
+    color: blanchedalmond;
+    font-size: 33px;
+}
+#lucesita{
+    background: chartreuse;
+    color: darkblue;
+    font-size: 12px;
+}
+#jose{
+    background: darkgoldenrod;
+    color: darkgreen;
+    font-size:25px;
+}
